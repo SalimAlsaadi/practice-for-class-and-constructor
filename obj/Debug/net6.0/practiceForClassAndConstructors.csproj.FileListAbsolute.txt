@@ -1,0 +1,15 @@
+C:\Users\TRA\Desktop\code-TRA\practiceForClassAndConstructors\practiceForClassAndConstructors\bin\Debug\net6.0\practiceForClassAndConstructors.exe
+C:\Users\TRA\Desktop\code-TRA\practiceForClassAndConstructors\practiceForClassAndConstructors\bin\Debug\net6.0\practiceForClassAndConstructors.deps.json
+C:\Users\TRA\Desktop\code-TRA\practiceForClassAndConstructors\practiceForClassAndConstructors\bin\Debug\net6.0\practiceForClassAndConstructors.runtimeconfig.json
+C:\Users\TRA\Desktop\code-TRA\practiceForClassAndConstructors\practiceForClassAndConstructors\bin\Debug\net6.0\practiceForClassAndConstructors.dll
+C:\Users\TRA\Desktop\code-TRA\practiceForClassAndConstructors\practiceForClassAndConstructors\bin\Debug\net6.0\practiceForClassAndConstructors.pdb
+C:\Users\TRA\Desktop\code-TRA\practiceForClassAndConstructors\practiceForClassAndConstructors\obj\Debug\net6.0\practiceForClassAndConstructors.csproj.AssemblyReference.cache
+C:\Users\TRA\Desktop\code-TRA\practiceForClassAndConstructors\practiceForClassAndConstructors\obj\Debug\net6.0\practiceForClassAndConstructors.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TRA\Desktop\code-TRA\practiceForClassAndConstructors\practiceForClassAndConstructors\obj\Debug\net6.0\practiceForClassAndConstructors.AssemblyInfoInputs.cache
+C:\Users\TRA\Desktop\code-TRA\practiceForClassAndConstructors\practiceForClassAndConstructors\obj\Debug\net6.0\practiceForClassAndConstructors.AssemblyInfo.cs
+C:\Users\TRA\Desktop\code-TRA\practiceForClassAndConstructors\practiceForClassAndConstructors\obj\Debug\net6.0\practiceForClassAndConstructors.csproj.CoreCompileInputs.cache
+C:\Users\TRA\Desktop\code-TRA\practiceForClassAndConstructors\practiceForClassAndConstructors\obj\Debug\net6.0\practiceForClassAndConstructors.dll
+C:\Users\TRA\Desktop\code-TRA\practiceForClassAndConstructors\practiceForClassAndConstructors\obj\Debug\net6.0\refint\practiceForClassAndConstructors.dll
+C:\Users\TRA\Desktop\code-TRA\practiceForClassAndConstructors\practiceForClassAndConstructors\obj\Debug\net6.0\practiceForClassAndConstructors.pdb
+C:\Users\TRA\Desktop\code-TRA\practiceForClassAndConstructors\practiceForClassAndConstructors\obj\Debug\net6.0\practiceForClassAndConstructors.genruntimeconfig.cache
+C:\Users\TRA\Desktop\code-TRA\practiceForClassAndConstructors\practiceForClassAndConstructors\obj\Debug\net6.0\ref\practiceForClassAndConstructors.dll
